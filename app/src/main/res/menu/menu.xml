@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Individual Champions"
+        android:id="@+id/ic">
+    </item>
+
+    <item android:title="Feedback"
+        android:id="@+id/feed">
+    </item>
+
+    <item android:title="Share"
+        android:id="@+id/share">
+    </item>
+
+    <item android:title="About Us"
+        android:id="@+id/abtus">
+    </item>
+    <item android:title="Exit"
+        android:id="@+id/exit"
+     ></item>
+
+
+</menu>

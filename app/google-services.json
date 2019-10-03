@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431696201148",
+    "firebase_url": "https://cce-sports-2019.firebaseio.com",
+    "project_id": "cce-sports-2019",
+    "storage_bucket": "cce-sports-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431696201148:android:d92eb02ac64674565b57b9",
+        "android_client_info": {
+          "package_name": "org.codecse.ccesports2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431696201148-0j05lrbcevbjh9cl9sr6ju1au16io7vi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.codecse.ccesports2019",
+            "certificate_hash": "f8cdd12e7d94eda2a273a59ab08bee97ff80fb7f"
+          }
+        },
+        {
+          "client_id": "431696201148-fhs0ug01a4o8g4oqptofcgdfedi947ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZHpB57Pzpof2hfCKQz6reg7O7XLULdkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431696201148-fhs0ug01a4o8g4oqptofcgdfedi947ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

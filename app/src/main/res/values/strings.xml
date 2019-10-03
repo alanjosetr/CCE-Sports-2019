@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CCE Sports 2019</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Schedule</string>
+    <string name="tab_text_2">Live Score</string>
+    <string name="tab_text_3">Results</string>
+    <string name="lup">Lupus</string>
+    <string name="peg">Pegasus</string>
+    <string name="cet">Cetus</string>
+    <string name="tau">Taurus</string>
+    <string name="onn">1.0</string>
+    <string name="off">0.2</string>
+    <string name="notid">"codecse.org"</string>
+</resources>
